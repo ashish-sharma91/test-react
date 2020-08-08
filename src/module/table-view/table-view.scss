@@ -1,0 +1,20 @@
+img {
+  border-radius: 50%;
+  width: 5rem;
+}
+
+th,
+td {
+  background-color: var(--background-color);
+  color: var(--text-color) !important;
+}
+
+.spaced-between {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 1rem;
+}
+
+input[type="text"] {
+  width: 250px;
+}
